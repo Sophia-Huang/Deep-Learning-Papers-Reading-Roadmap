@@ -85,10 +85,10 @@
 
 ### 2.8 一次性深度学习
 - 不涉及深度学习，但值得一读：Lake, Brenden M., Ruslan Salakhutdinov, and Joshua B. Tenenbaum. “Human-level concept learning through probabilistic program induction.” Science 350.6266 (2015): 1332-1338. 
-- 一次性图像识别（暂无）：Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. “Siamese Neural Networks for One-shot Image Recognition.”(2015). [pdf](http://www.cs.utoronto.ca/%7Egkoch/files/msc-thesis.pdf)
-- 一次性学习基础（暂无）：Santoro, Adam, et al. “One-shot Learning with Memory-Augmented Neural Networks.” arXiv preprint arXiv:1605.06065 (2016). [pdf](http://arxiv.org/pdf/1605.06065)
+- 一次性图像识别：Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. “Siamese Neural Networks for One-shot Image Recognition.”(2015). [pdf](http://www.cs.utoronto.ca/%7Egkoch/files/msc-thesis.pdf)
+- 一次性学习基础：Santoro, Adam, et al. “One-shot Learning with Memory-Augmented Neural Networks.” arXiv preprint arXiv:1605.06065 (2016). [pdf](http://arxiv.org/pdf/1605.06065)
 - 一次性学习网络：Vinyals, Oriol, et al. “Matching Networks for One Shot Learning.” arXiv preprint arXiv:1606.04080 (2016). 
-- 大型数据（暂无）：Hariharan, Bharath, and Ross Girshick. “Low-shot visual object recognition.” arXiv preprint arXiv:1606.02819 (2016). [pdf](http://arxiv.org/pdf/1606.02819)
+- 大型数据：Hariharan, Bharath, and Ross Girshick. “Low-shot visual object recognition.” arXiv preprint arXiv:1606.02819 (2016). [pdf](http://arxiv.org/pdf/1606.02819)
 
 ## 应用
 ### 3.1 自然语言处理 (NLP)
@@ -107,33 +107,33 @@ https://arxiv.org/abs/1508.06615
 ### 3.2 目标检测
 - Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. “Deep neural networks for object detection.” Advances in Neural Information Processing Systems. 2013. 
 - RCNN：Girshick, Ross, et al. “Rich feature hierarchies for accurate object detection and semantic segmentation.” Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. 
-- SPPNet（暂无）：He, Kaiming, et al. “Spatial pyramid pooling in deep convolutional networks for visual recognition.” European Conference on Computer Vision. Springer International Publishing, 2014. [pdf](http://arxiv.org/pdf/1406.4729) 
+- SPPNet：He, Kaiming, et al. “Spatial pyramid pooling in deep convolutional networks for visual recognition.” European Conference on Computer Vision. Springer International Publishing, 2014. [pdf](http://arxiv.org/pdf/1406.4729) 
 - Girshick, Ross. “Fast r-cnn.” Proceedings of the IEEE International Conference on Computer Vision. 2015. 
 - 相当实用的YOLO项目：Redmon, Joseph, et al. “You only look once: Unified, real-time object detection.” arXiv preprint arXiv:1506.02640 (2015). 
-- （暂无）Liu, Wei, et al. “SSD: Single Shot MultiBox Detector.” arXiv preprint arXiv:1512.02325 (2015). [pdf](http://arxiv.org/pdf/1512.02325)
-- （暂无）Dai, Jifeng, et al. “R-FCN: Object Detection via Region-based Fully Convolutional Networks.” arXiv preprint arXiv:1605.06409 (2016). [pdf](https://arxiv.org/abs/1605.06409)
-- （暂无）He, Gkioxari, et al. “Mask R-CNN” arXiv preprint arXiv:1703.06870 (2017). [pdf](https://arxiv.org/abs/1703.06870)
+- Liu, Wei, et al. “SSD: Single Shot MultiBox Detector.” arXiv preprint arXiv:1512.02325 (2015). [pdf](http://arxiv.org/pdf/1512.02325)
+- Dai, Jifeng, et al. “R-FCN: Object Detection via Region-based Fully Convolutional Networks.” arXiv preprint arXiv:1605.06409 (2016). [pdf](https://arxiv.org/abs/1605.06409)
+- He, Gkioxari, et al. “Mask R-CNN” arXiv preprint arXiv:1703.06870 (2017). [pdf](https://arxiv.org/abs/1703.06870)
 
 ### 3.3 视觉追踪
 - 第一份采用深度学习的视觉追踪论文，DLT追踪器：Wang, Naiyan, and Dit-Yan Yeung. “Learning a deep compact image representation for visual tracking.” Advances in neural information processing systems. 2013. 
-- SO-DLT（暂无）：Wang, Naiyan, et al. “Transferring rich feature hierarchies for robust visual tracking.” arXiv preprint arXiv:1501.04587 (2015). [pdf](http://arxiv.org/pdf/1501.04587)
+- SO-DLT：Wang, Naiyan, et al. “Transferring rich feature hierarchies for robust visual tracking.” arXiv preprint arXiv:1501.04587 (2015). [pdf](http://arxiv.org/pdf/1501.04587)
 - FCNT：Wang, Lijun, et al. “Visual tracking with fully convolutional networks.” Proceedings of the IEEE International Conference on Computer Vision. 2015. 
-- 跟深度学习一样快的非深度学习方法，GOTURN（暂无）：Held, David, Sebastian Thrun, and Silvio Savarese. “Learning to Track at 100 FPS with Deep Regression Networks.” arXiv preprint arXiv:1604.01802 (2016). [pdf](http://arxiv.org/pdf/1604.01802)
-- 新的最先进的实时目标追踪方案 SiameseFC（暂无）：Bertinetto, Luca, et al. “Fully-Convolutional Siamese Networks for Object Tracking.” arXiv preprint arXiv:1606.09549 (2016). [pdf](https://arxiv.org/pdf/1606.09549)
+- 跟深度学习一样快的非深度学习方法，GOTURN：Held, David, Sebastian Thrun, and Silvio Savarese. “Learning to Track at 100 FPS with Deep Regression Networks.” arXiv preprint arXiv:1604.01802 (2016). [pdf](http://arxiv.org/pdf/1604.01802)
+- 新的最先进的实时目标追踪方案 SiameseFC：Bertinetto, Luca, et al. “Fully-Convolutional Siamese Networks for Object Tracking.” arXiv preprint arXiv:1606.09549 (2016). [pdf](https://arxiv.org/pdf/1606.09549)
 - C-COT：Martin Danelljan, Andreas Robinson, Fahad Khan, Michael Felsberg. “Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking.” ECCV (2016) 
-- VOT2016大赛冠军 TCNN（暂无）：Nam, Hyeonseob, Mooyeol Baek, and Bohyung Han. “Modeling and Propagating CNNs in a Tree Structure for Visual Tracking.” arXiv preprint arXiv:1608.07242 (2016). [pdf](https://arxiv.org/pdf/1608.07242)
+- VOT2016大赛冠军 TCNN：Nam, Hyeonseob, Mooyeol Baek, and Bohyung Han. “Modeling and Propagating CNNs in a Tree Structure for Visual Tracking.” arXiv preprint arXiv:1608.07242 (2016). [pdf](https://arxiv.org/pdf/1608.07242)
 
 ### 3.4 图像标注
 - Farhadi,Ali,etal. “Every picture tells a story: Generating sentences from images”. In Computer VisionECCV 201match0. Spmatchringer Berlin Heidelberg:15-29, 2010. 
 - Kulkarni, Girish, et al. “Baby talk: Understanding and generating image descriptions”. In Proceedings of the 24th CVPR, 2011. 
-- （暂无）Vinyals, Oriol, et al. “Show and tell: A neural image caption generator”. In arXiv preprint arXiv:1411.4555, 2014. [pdf](https://arxiv.org/pdf/1411.4555.pdf)
-- RNN视觉识别与标注（暂无）：Donahue, Jeff, et al. “Long-term recurrent convolutional networks for visual recognition and description”. In arXiv preprint arXiv:1411.4389 ,2014. [pdf](https://arxiv.org/pdf/1411.4389.pdf) 
+- Vinyals, Oriol, et al. “Show and tell: A neural image caption generator”. In arXiv preprint arXiv:1411.4555, 2014. [pdf](https://arxiv.org/pdf/1411.4555.pdf)
+- RNN视觉识别与标注：Donahue, Jeff, et al. “Long-term recurrent convolutional networks for visual recognition and description”. In arXiv preprint arXiv:1411.4389 ,2014. [pdf](https://arxiv.org/pdf/1411.4389.pdf) 
 - 李飞飞及高徒Andrej Karpathy：Karpathy, Andrej, and Li Fei-Fei. “Deep visual-semantic alignments for generating image descriptions”. In arXiv preprint arXiv:1412.2306, 2014. 
-- 李飞飞及高徒Andrej Karpathy（暂无）：Karpathy, Andrej, Armand Joulin, and Fei Fei F. Li. “Deep fragment embeddings for bidirectional image sentence mapping”. In Advances in neural information processing systems, 2014. [pdf](https://arxiv.org/pdf/1406.5679v1.pdf)
-- （暂无）Fang, Hao, et al. “From captions to visual concepts and back”. In arXiv preprint arXiv:1411.4952, 2014. [pdf](https://arxiv.org/pdf/1411.4952v3.pdf) 
-- （暂无）Chen, Xinlei, and C. Lawrence Zitnick. “Learning a recurrent visual representation for image caption generation”. In arXiv preprint arXiv:1411.5654, 2014. [pdf](https://arxiv.org/pdf/1411.5654v1.pdf)
-- （暂无）Mao, Junhua, et al. “Deep captioning with multimodal recurrent neural networks (m-rnn)”. In arXiv preprint arXiv:1412.6632, 2014. [pdf](https://arxiv.org/pdf/1412.6632v5.pdf)
-- （暂无）Xu, Kelvin, et al. “Show, attend and tell: Neural image caption generation with visual attention”. In arXiv preprint arXiv:1502.03044, 2015. [pdf](https://arxiv.org/pdf/1502.03044v3.pdf)
+- 李飞飞及高徒Andrej Karpathy：Karpathy, Andrej, Armand Joulin, and Fei Fei F. Li. “Deep fragment embeddings for bidirectional image sentence mapping”. In Advances in neural information processing systems, 2014. [pdf](https://arxiv.org/pdf/1406.5679v1.pdf)
+- Fang, Hao, et al. “From captions to visual concepts and back”. In arXiv preprint arXiv:1411.4952, 2014. [pdf](https://arxiv.org/pdf/1411.4952v3.pdf) 
+- Chen, Xinlei, and C. Lawrence Zitnick. “Learning a recurrent visual representation for image caption generation”. In arXiv preprint arXiv:1411.5654, 2014. [pdf](https://arxiv.org/pdf/1411.5654v1.pdf)
+- Mao, Junhua, et al. “Deep captioning with multimodal recurrent neural networks (m-rnn)”. In arXiv preprint arXiv:1412.6632, 2014. [pdf](https://arxiv.org/pdf/1412.6632v5.pdf)
+- Xu, Kelvin, et al. “Show, attend and tell: Neural image caption generation with visual attention”. In arXiv preprint arXiv:1502.03044, 2015. [pdf](https://arxiv.org/pdf/1502.03044v3.pdf)
 
 ### 3.5 机器翻译
 - Luong, Minh-Thang, et al. “Addressing the rare word problem in neural machine translation.” arXiv preprint arXiv:1410.8206 (2014). 
